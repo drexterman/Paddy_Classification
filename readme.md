@@ -109,14 +109,14 @@ Transformer_Classification.csv
    jupyter notebook Transformer_train_without_metadata.ipynb
    ```
 
-#### Evaluating the Models
+#### Making Predictions
 
-1. To evaluate the CNN models, open and run the `CNN_eval.ipynb` notebook:
+1. To make predictions using the CNN models, open and run the `CNN_eval.ipynb` notebook, the results will be stored in `CNN_Classification.csv`:
    ```sh
    jupyter notebook CNN_eval.ipynb
    ```
 
-2. To evaluate the Transformer models, open and run the `Transformer_eval.ipynb` notebook:
+2. To make predictions using the Transformer models, open and run the `Transformer_eval.ipynb` notebook, the results will be stored in `Transformer_Classification.csv`:
    ```sh
    jupyter notebook Transformer_eval.ipynb
    ```
